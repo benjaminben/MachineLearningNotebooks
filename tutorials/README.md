@@ -6,7 +6,7 @@ two sets of tutorial articles for:
  * [Image classification using MNIST dataset](https://docs.microsoft.com/en-us/azure/machine-learning/service/tutorial-train-models-with-aml)
  * [Regression using NYC Taxi dataset](https://docs.microsoft.com/en-us/azure/machine-learning/service/tutorial-data-prep)
 
-If you are using an Azure Machine Learning Notebook VM, you are all set. Otherwise, run the [configuration Notebook](../configuration.ipynb) notebook first to set up your Azure ML Workspace. Then, run the notebooks in following recommended order.
+If you are using an Azure Machine Learning Notebook VM, you are all set. Otherwise, run the [configuration notebook](../configuration.ipynb) first to set up your Azure ML Workspace. Then, run the notebooks in following recommended order.
 
 ### Image classification
 
